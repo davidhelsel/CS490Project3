@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/EZGjgSJhNeMZ3ggaMl/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Gif created with Screenshot App for OS and Giphy
 
